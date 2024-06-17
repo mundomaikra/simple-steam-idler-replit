@@ -6,8 +6,8 @@ var username = process.env.username;
 var password = process.env.password;
 var shared_secret = process.env.shared;
 
-var games = [730, 440, 570];  // Enter here AppIDs of the needed games
-var status = 1;  // 1 - online, 7 - invisible
+var games = [2305790, 1172470, 10, 2073850];  // Enter here AppIDs of the needed games
+var status = 7;  // 1 - online, 7 - invisible
 
 
 user = new steamUser();
@@ -19,12 +19,12 @@ user.on('loggedOn', () => {
 });
 
 
-// var username2 = process.env.username2;
-// var password2 = process.env.password2;
-// var shared_secret2 = process.env.shared2;
+// var liargeld = process.env.liargeld;
+// var Elmejor10? = process.env.Elmejor10?;
+// var TCWRP = process.env.TCWRP;
 
-// var games2 = [730, 440, 570, 304930];  // Enter here AppIDs of the needed games
-// var status2 = 1;  // 1 - online, 7 - invisible
+// var games2 = [2305790, 1172470, 10, 2073850, 218];  // Enter here AppIDs of the needed games
+// var status2 = 7;  // 1 - online, 7 - invisible
 
 
 // user2 = new steamUser();
