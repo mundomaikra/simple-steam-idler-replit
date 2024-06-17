@@ -21,7 +21,7 @@ user.on('loggedOn', () => {
 
 // var liargeld = process.env.liargeld;
 // var Elmejor10? = process.env.Elmejor10?;
-// var TCWRP = process.env.TCWRP;
+// var 51MA0YSokcCkjIIYXG+KDm5d3Bk= = process.env.51MA0YSokcCkjIIYXG+KDm5d3Bk=;
 
 // var games2 = [2305790, 1172470, 10, 2073850, 218];  // Enter here AppIDs of the needed games
 // var status2 = 7;  // 1 - online, 7 - invisible
